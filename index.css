@@ -1,0 +1,17 @@
+table {
+  width: 100%;
+  border: solid #ccc;
+}
+
+th {
+  background-color: #f0f0f0;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+td {
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: rgb(57, 154, 228);
+  text-align: center;
+}
